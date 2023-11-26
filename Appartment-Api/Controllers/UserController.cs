@@ -27,5 +27,23 @@ namespace Appartment_Api.Controllers
             var result = _userrepository.CreateAsync(userDto);
             return Ok(result.Result);
         }
+        [HttpGet]
+        public IActionResult UserGetById(int id)
+        {
+            var result = _userrepository.GetByIdAsync(id);
+            return Ok(result.Result);
+        }
+        [HttpPut]
+        public IActionResult UserUpdate(int id , UserDto userDto)
+        {
+            var result = _userrepository.UpdateAsync(id, userDto);
+            return Ok(result.Result);
+        }
+        [HttpDelete]
+        public IActionResult UserDeleted(int id)
+        {
+            var result = _userrepository.DeleteAsync(id);
+            return Ok(result.Result);
+        }
     }
 }
