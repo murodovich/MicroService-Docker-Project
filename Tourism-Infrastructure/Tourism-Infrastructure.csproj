@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Tourism-Api\Tourism-Api.csproj" />
+    <ProjectReference Include="..\Tourism-Application\Tourism-Application.csproj" />
+    <ProjectReference Include="..\Tourism-Domain\Tourism-Domain.csproj" />
+  </ItemGroup>
+
 </Project>
