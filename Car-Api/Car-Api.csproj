@@ -7,6 +7,7 @@
     <RootNamespace>Car_Api</RootNamespace>
     <UserSecretsId>26859be3-b0ad-433c-81c8-747bc2716a57</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>
