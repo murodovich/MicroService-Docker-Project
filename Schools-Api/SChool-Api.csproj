@@ -7,6 +7,7 @@
     <RootNamespace>Schools_Api</RootNamespace>
     <UserSecretsId>0850dd52-d053-436f-aa2b-4e4a858b547a</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>
