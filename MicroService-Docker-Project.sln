@@ -11,37 +11,39 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Appsrtment-project", "Appsr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tourism-project", "Tourism-project", "{8B1C5FF4-A942-48FF-9F0D-A39ED37F9E6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appartment-Api", "Appartment-Api\Appartment-Api.csproj", "{32EF9760-1F18-4FF6-9951-DAB423EDA606}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appartment-Api", "Appartment-Api\Appartment-Api.csproj", "{32EF9760-1F18-4FF6-9951-DAB423EDA606}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appartment-Domain", "Appartment-Domain\Appartment-Domain.csproj", "{9A77977A-C6D8-46C8-92F7-67987D8C7F2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appartment-Domain", "Appartment-Domain\Appartment-Domain.csproj", "{9A77977A-C6D8-46C8-92F7-67987D8C7F2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appartment-Application", "Appartment-Application\Appartment-Application.csproj", "{EFE6F31F-C58F-4394-B599-D607A81274FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appartment-Application", "Appartment-Application\Appartment-Application.csproj", "{EFE6F31F-C58F-4394-B599-D607A81274FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appartment-Infrastructure", "Appartment-Infrastructure\Appartment-Infrastructure.csproj", "{D970C8AA-8031-41BC-AC36-B9D301E2CB29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appartment-Infrastructure", "Appartment-Infrastructure\Appartment-Infrastructure.csproj", "{D970C8AA-8031-41BC-AC36-B9D301E2CB29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car-Api", "Car-Api\Car-Api.csproj", "{D1E8B568-BF78-485C-9FA7-F0EBA8186717}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Car-Api", "Car-Api\Car-Api.csproj", "{D1E8B568-BF78-485C-9FA7-F0EBA8186717}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car-Application", "Car-Application\Car-Application.csproj", "{79F0128B-D024-415E-8156-7B3A07B33FC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Car-Application", "Car-Application\Car-Application.csproj", "{79F0128B-D024-415E-8156-7B3A07B33FC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car-Domain", "Car-Domain\Car-Domain.csproj", "{D4EF001C-71DE-4A9E-ACD1-2B9AF300ED8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Car-Domain", "Car-Domain\Car-Domain.csproj", "{D4EF001C-71DE-4A9E-ACD1-2B9AF300ED8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car-Infrastructure", "Car-Infrastructure\Car-Infrastructure.csproj", "{BF3F2BC3-2A1E-46AF-93C7-6F7F334ED890}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Car-Infrastructure", "Car-Infrastructure\Car-Infrastructure.csproj", "{BF3F2BC3-2A1E-46AF-93C7-6F7F334ED890}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SChool-Api", "Schools-Api\SChool-Api.csproj", "{940D2A81-774E-47D4-87C8-345FDD236B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SChool-Api", "Schools-Api\SChool-Api.csproj", "{940D2A81-774E-47D4-87C8-345FDD236B59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School-Domain", "School-Domain\School-Domain.csproj", "{8789AB6B-CFA2-4636-8589-76455C3AD0A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School-Domain", "School-Domain\School-Domain.csproj", "{8789AB6B-CFA2-4636-8589-76455C3AD0A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School-Application", "School-Application\School-Application.csproj", "{1992DACE-DE50-4E88-B6DC-3FDED5FC18DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School-Application", "School-Application\School-Application.csproj", "{1992DACE-DE50-4E88-B6DC-3FDED5FC18DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School-Infrastructure", "School-Infrastructure\School-Infrastructure.csproj", "{48299264-FDA5-47A6-86CB-6FA572A43F34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School-Infrastructure", "School-Infrastructure\School-Infrastructure.csproj", "{48299264-FDA5-47A6-86CB-6FA572A43F34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tourism-Api", "Tourism-Api\Tourism-Api.csproj", "{678A65F9-DD75-427D-BC82-EF529F48E7F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tourism-Api", "Tourism-Api\Tourism-Api.csproj", "{678A65F9-DD75-427D-BC82-EF529F48E7F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tourism-Domain", "Tourism-Domain\Tourism-Domain.csproj", "{7DB79AE0-FFC0-4E09-A2CA-AB045ED5E25E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tourism-Domain", "Tourism-Domain\Tourism-Domain.csproj", "{7DB79AE0-FFC0-4E09-A2CA-AB045ED5E25E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tourism-Application", "Tourism-Application\Tourism-Application.csproj", "{55C07AFE-C5B6-4EC7-B319-CC1350ACF337}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tourism-Application", "Tourism-Application\Tourism-Application.csproj", "{55C07AFE-C5B6-4EC7-B319-CC1350ACF337}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tourism-Infrastructure", "Tourism-Infrastructure\Tourism-Infrastructure.csproj", "{DEE4DD33-5021-4C20-B1B3-F2C0420145EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tourism-Infrastructure", "Tourism-Infrastructure\Tourism-Infrastructure.csproj", "{DEE4DD33-5021-4C20-B1B3-F2C0420145EB}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{F15B3708-6080-4EFB-A482-420BD6EC37D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -113,6 +115,10 @@ Global
 		{DEE4DD33-5021-4C20-B1B3-F2C0420145EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEE4DD33-5021-4C20-B1B3-F2C0420145EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEE4DD33-5021-4C20-B1B3-F2C0420145EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15B3708-6080-4EFB-A482-420BD6EC37D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15B3708-6080-4EFB-A482-420BD6EC37D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15B3708-6080-4EFB-A482-420BD6EC37D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15B3708-6080-4EFB-A482-420BD6EC37D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
