@@ -7,6 +7,7 @@
     <RootNamespace>Tourism_Api</RootNamespace>
     <UserSecretsId>8d3b4249-f4c8-46a8-a9ed-4c33309e5409</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>
@@ -21,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Tourism-Application\Tourism-Application.csproj" />
+    <ProjectReference Include="..\Tourism-Infrastructure\Tourism-Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
