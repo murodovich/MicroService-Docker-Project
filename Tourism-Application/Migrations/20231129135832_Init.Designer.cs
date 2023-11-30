@@ -12,8 +12,8 @@ using Tourism_Application.Data;
 namespace Tourism_Application.Migrations
 {
     [DbContext(typeof(TourismDBContext))]
-    [Migration("20231127230414_TourismDB")]
-    partial class TourismDB
+    [Migration("20231129135832_Init")]
+    partial class Init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
